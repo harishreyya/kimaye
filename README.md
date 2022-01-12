@@ -6,6 +6,11 @@
 <p><strong>HTML:  </strong><span></span>It is used to build the basic structure of the website. All headings, Paragraphs, links, forms, etc. were structured by HTML.</p>
 <p><strong>JavaScript:  </strong><span></span>It is used to add logical functionalities to the webpages like the onClick function, DOM, and dynamic aspects of the webpage. We used localStorage to store products and Login Details. I added all the functionalities.</p>
 <p><strong>CSS: </strong><span></span>It is used to add styling to the website. We used Advance CSS for Animation, Popup Modal window for login/Sign up, Payment, and for adding Address.</p>
+
+<h2>View Website : </h2>
+<p>https://harishreyya.github.io/kimaye/<p>
+  
+  
 <h3>Some Snapshots of Website:</h3>
 
 
